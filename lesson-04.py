@@ -60,4 +60,4 @@ if flag:
     print(a.shape, a.unsqueeze(0).shape, a.unsqueeze(-1).shape)  # 增加了一个概念，在对应索引位置插入
 
     # 例子
-    
+    print(a)
